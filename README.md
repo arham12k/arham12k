@@ -6,6 +6,7 @@
 
 # 💫 About Me:
 I'm a passionate frontend developer with experience in creating robust and beautiful web applications. I love to design and develop user-friendly interfaces that provide a seamless user experience.
+I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap and Next.js. I love turning design concepts into responsive and user-friendly interfaces.
 
 
 - 🔭 I’m currently working on **VideoTube**
@@ -29,13 +30,14 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 
 I have completed relevant certifications in frontend development to further enhance my skills:
 
-- Certification in Responsive Web Design
+
 - Certification in JavaScript Fundamentals
 - Certification in React Development
+- Certification in Responsive Web Design
 
 # Goals
 
-My goal is to continue learning and growing as a frontend developer, exploring new technologies, and creating innovative web solutions that make a positive impact.
+My goal is to continue learning and growing as a fullstack developer, exploring new technologies, and creating innovative web solutions that make a positive impact.
 
 
 
