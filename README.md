@@ -36,21 +36,6 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 </p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham12k&show_icons=true&locale=en&layout=compact" alt="arham12k" /></p>
-
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
-</p>
-
-
-![arham12k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arham12k&theme=vue-dark&hide_border=true)
-
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arham12k&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arham12k&theme=dark&hide_border=false)<br/>
