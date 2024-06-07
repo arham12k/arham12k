@@ -30,5 +30,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
 
+<p align="center">
 ![arham12k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arham12k&theme=vue-dark&hide_border=true)
+</p>
 	
