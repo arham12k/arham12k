@@ -25,7 +25,7 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 - ⚡ Fun fact **I'm still a Kid 🤪**
 
 
-## Certifications
+# Certifications
 
 I have completed relevant certifications in frontend development to further enhance my skills:
 
@@ -33,7 +33,7 @@ I have completed relevant certifications in frontend development to further enha
 - Certification in JavaScript Fundamentals
 - Certification in React Development
 
-## Goals
+# Goals
 
 My goal is to continue learning and growing as a frontend developer, exploring new technologies, and creating innovative web solutions that make a positive impact.
 
@@ -48,7 +48,7 @@ My goal is to continue learning and growing as a frontend developer, exploring n
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arham12k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham12k&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Let's Connect
+# Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me if you have any questions or just want to chat about frontend development.
 <h3 align="left">🤝 Connect with me:</h3
