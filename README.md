@@ -5,6 +5,8 @@
 
 
 # 💫 About Me:
+I'm a passionate frontend developer with experience in creating robust and beautiful web applications. I love to design and develop user-friendly interfaces that provide a seamless user experience.
+
 
 - 🔭 I’m currently working on **VideoTube**
 
