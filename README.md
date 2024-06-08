@@ -48,6 +48,7 @@ My goal is to continue learning and growing as a fullstack developer, exploring 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arham12k&theme=dark&hide_border=false)<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arham12k&theme=dark" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham12k&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🤝 Let's Connect
