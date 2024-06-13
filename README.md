@@ -21,7 +21,7 @@ I have experience working with modern frontend technologies and frameworks such 
 
 - 📄 Know about my experiences [webdevarham.site](https://webdevarham.site)
 
-- ⚡ Fun fact **I'm still a Kid 🤪**
+- ⚡ Fun fact **I love gyming🤪**
 
 
 # 📜 Certifications
