@@ -9,11 +9,9 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap and Next.js. I love turning design concepts into responsive and user-friendly interfaces.
 
 
-- 🔭 I’m currently working on **VideoTube**
+- 🔭 I’m currently working on **Mern Stack**
 
 - 🌱 I’m currently learning **NextJs and Backend Development**
-
-- 👯 I’m looking to collaborate on **VideoTube**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arham12k](https://github.com/arham12k)
 
