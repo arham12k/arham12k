@@ -9,7 +9,7 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap and Next.js. I love turning design concepts into responsive and user-friendly interfaces.
 
 
-- 🔭 I’m currently working on **ASP.NET**
+- 🔭 I’m currently working on **ASP.NET Core**
 
 - 🌱 I’m currently learning **C# and ASP.NET Core**
 
