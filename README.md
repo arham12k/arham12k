@@ -9,9 +9,9 @@ I'm a passionate frontend developer with experience in creating robust and beaut
 I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap and Next.js. I love turning design concepts into responsive and user-friendly interfaces.
 
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working on **ASP.NET**
 
-- 🌱 I’m currently learning **NextJs and Backend Development**
+- 🌱 I’m currently learning **C# and ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arham12k](https://github.com/arham12k)
 
@@ -32,6 +32,7 @@ I have completed relevant certifications in frontend development to further enha
 - Certification in JavaScript Fundamentals
 - Certification in React Development
 - Certification in Responsive Web Design
+- Certification in C#
 
 # 📍 Goals
 
