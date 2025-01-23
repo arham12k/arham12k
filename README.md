@@ -5,13 +5,28 @@
 
 
 # 💫 About Me:
-I'm a passionate frontend developer with experience in creating robust and beautiful web applications. I love to design and develop user-friendly interfaces that provide a seamless user experience.
-I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap and Next.js. I love turning design concepts into responsive and user-friendly interfaces.
+I'm a passionate full stack developer with experience in creating robust and beautiful web applications. I love to design and develop user-friendly interfaces that provide a seamless user experience. I have experience working with modern frontend technologies and frameworks such as HTML, CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap, and Next.js.I also have expertise in backend technologies such as ASP.NET, C#, Node.js, Express.js, and SQL Server. Additionally, I've worked with DevExtreme and MongoDB databases.
+
+
+In my recent role at i2e Consultancy, I contributed to the projects, where I:
+
+- Managed end-to-end development, ensuring seamless integration and functionality.
+- Implemented role-based access control, session-based authentication, and JWT authentication for enhanced security.
+- Designed and developed new web pages and features using ASP.NET and DevExtreme, enhancing user experience and application capabilities.
+- Developed and integrated various graphs to visualize data, providing actionable insights.
+- Conducted performance optimization, reducing load times and improving responsiveness.
+- Identified and resolved application issues, ensuring a smooth and reliable user experience.
+- Utilized dependency injection, lifecycle methods, repository pattern, and MVC architecture to maintain a clean, maintainable, and efficient codebase.
+- Applied authentication and authorization filters to enforce security policies.
+
+I graduated with a bachelor’s degree in computer science from RGPV University. My natural curiosity for computers is what drove me towards my computer science degree. I’ve always been fascinated by computers and the technical mechanics behind the monitor.
+
+Having secured a first-class degree, I am now eager to secure roles that demand the use of the skills gained during my studies and professional experience. I love to connect with new people and build new relationships, so feel free to send me a message.
 
 
 - 🔭 I’m currently working on **ASP.NET Core**
 
-- 🌱 I’m currently learning **C# and ASP.NET Core**
+- 🌱 I’m currently learning **C#,SQL and ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arham12k](https://github.com/arham12k)
 
@@ -29,10 +44,12 @@ I have experience working with modern frontend technologies and frameworks such 
 I have completed relevant certifications in frontend development to further enhance my skills:
 
 
-- Certification in JavaScript Fundamentals
+- Certification in JavaScript
 - Certification in React Development
 - Certification in Responsive Web Design
 - Certification in C#
+- Certification in Project Management
+  
 
 # 📍 Goals
 
